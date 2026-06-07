@@ -88,15 +88,4 @@ Follow these steps to deploy this environment on your local development machine:
 Ensure you have a modern Python 3 instance along with the core scientific computing stack installed:
 ```bash
 pip install numpy pandas matplotlib jupyter
-
 jupyter notebook
-
----
-
-### Checking Your Work
-
-Once saved, look at the top right corner of your VS Code window while editing the `README.md` file. You will see a small icon that looks like a split window with a magnifying glass (**Open Preview to the Side**). 
-
-If you click that button, VS Code will show you exactly how the file will look when it gets uploaded to GitHub: all the hashes (`#`) turn into clean titles, the tables format beautifully, and the math symbols compile into professional math layout equations.
-
-Your local coding project is now fully complete, beautifully documented, and ready for you to upload to your GitHub portfolio!
