@@ -88,4 +88,3 @@ Follow these steps to deploy this environment on your local development machine:
 Ensure you have a modern Python 3 instance along with the core scientific computing stack installed:
 ```bash
 pip install numpy pandas matplotlib jupyter
-jupyter notebook
